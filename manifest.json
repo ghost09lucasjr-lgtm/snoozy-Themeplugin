@@ -1,8 +1,0 @@
-{
-  "name": "Snoozy Theme 7",
-  "description": "Recolor the theme, text and outlines, set a DM background image, and speed up animations.",
-  "authors": [{ "name": "me" }],
-  "main": "index.js",
-  "hash": "v7",
-  "vendetta": { "icon": "ic_palette" }
-}
