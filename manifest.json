@@ -1,8 +1,0 @@
-{
-  "name": "Snoozy pfp changer V1",
-  "description": "Recolor the app, set a chat background image, speed up animations, and change how other people look (only on your phone).",
-  "authors": [{ "name": "me" }],
-  "main": "index.js",
-  "hash": "V1",
-  "vendetta": { "icon": "ic_palette" }
-}
