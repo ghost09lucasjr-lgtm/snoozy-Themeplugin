@@ -1,0 +1,8 @@
+{
+  "name": "Theme Maker",
+  "description": "Recolor the theme, text and outlines, set a DM background image, and speed up animations.",
+  "authors": [{ "name": "me" }],
+  "main": "index.js",
+  "hash": "v3",
+  "vendetta": { "icon": "ic_palette" }
+}
