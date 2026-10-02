@@ -1,0 +1,8 @@
+{
+  "name": "Snoozy pfp changer V2",
+  "description": "Tap a person's profile, press the button, import a picture from your device, and see it as their profile picture (only on your phone).",
+  "authors": [{ "name": "me" }],
+  "main": "index.js",
+  "hash": "V2",
+  "vendetta": { "icon": "ic_image" }
+}
