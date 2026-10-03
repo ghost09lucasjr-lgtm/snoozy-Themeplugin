@@ -1,0 +1,12 @@
+{
+  "name": "SnoozyThemeMaker",
+  "description": "Create, customize, save, and apply your own ShiggyCord themes.",
+  "authors": [
+    {
+      "name": "S-N-\u00d8-\u00d6-Z-Y"
+    }
+  ],
+  "main": "index.js",
+  "hash": "fd05cf56931b8102ac1d2605ef51e0dbb9f41fc5a02429ac5c4d030eb9e87791",
+  "version": "1.0.1"
+}
