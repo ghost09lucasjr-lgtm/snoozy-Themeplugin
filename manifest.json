@@ -1,0 +1,8 @@
+{
+  "name": "Snoozy Studio V4",
+  "description": "Make your own themes (name, description, colors, background image) that show up in the Themes app, plus local-only profile pictures.",
+  "authors": [{ "name": "me" }],
+  "main": "index.js",
+  "hash": "V4",
+  "vendetta": { "icon": "ic_palette" }
+}
