@@ -1,8 +1,0 @@
-{
-  "name": "Snoozy pfp changer V3",
-  "description": "Open a profile, tap the three dots, press snoozypfp, import a picture from your device, and see it as their profile picture (only on your phone).",
-  "authors": [{ "name": "me" }],
-  "main": "index.js",
-  "hash": "V3",
-  "vendetta": { "icon": "ic_image" }
-}
